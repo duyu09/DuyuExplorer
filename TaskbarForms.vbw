@@ -1,0 +1,3 @@
+frmMain = 0, 0, 0, 0, C, 22, 22, 468, 376, C
+modTaskBarForm = 0, 0, 0, 0, C
+frmMenu = 0, 0, 0, 0, C, 44, 44, 490, 398, C
